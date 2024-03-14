@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/thiru_7" target="blank"><img src="https://img.shields.io/twitter/follow/thiru_7?logo=twitter&style=for-the-badge" alt="thiru_7" /></a> </p>
 
-- 🌱 I’m currently learning **Gaming With AR using unity**
+- 🌱 I’m able to create different **Web designs & Graphic Designs**
 
-- 💬 Ask me about **Designing and Development of game**
+- 💬 Ask me about **Ui/Ux Design & Graphic design**
 
-- 📫 How to reach me **studytdrive@gmailcom**
+- 📫 How to reach me **placementss2025@gmail.com**
 
 - ⚡ Fun fact **Creating Youtube videos**
 
