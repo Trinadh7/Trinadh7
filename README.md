@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thiru_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thiru_7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/trinadh kondapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trinadh kondapalli" height="30" width="40" /></a>
-<a href="https://instagram.com/3nadh_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3nadh_7" height="30" width="40" /></a>
+<a href="https://x.com/Thiru7484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thiru_7" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ktrinath7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trinadh kondapalli" height="30" width="40" /></a>
+<a href="https://www.instagram.com/a_rise47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3nadh_7" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/trinadh7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="trinadh7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kondapalli trinadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kondapalli trinadh" height="30" width="40" /></a>
 </p>
